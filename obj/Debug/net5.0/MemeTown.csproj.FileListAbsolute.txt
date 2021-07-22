@@ -78,3 +78,8 @@ C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\obj\Debug\net5.0\ref\MemeTown.dl
 C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\obj\Debug\net5.0\MemeTown.pdb
 C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\obj\Debug\net5.0\MemeTown.genruntimeconfig.cache
 C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\obj\Debug\net5.0\MemeTown.csproj.CopyComplete
+C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\bin\Debug\net5.0\Publish\web.config
+C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\bin\Debug\net5.0\Publish\appsettings.Development.json
+C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\bin\Debug\net5.0\Publish\appsettings.json
+C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\bin\Debug\net5.0\Publish\MemeTown.deps.json
+C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\bin\Debug\net5.0\Publish\MemeTown.runtimeconfig.json
