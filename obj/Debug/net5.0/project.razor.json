@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Satyam\\Downloads\\MemeTown\\MemeTown\\MemeTown.csproj",
+  "FilePath": "c:\\Users\\Electric_Recon\\source\\repos\\Revature\\Core C#\\Team_Strongly_Typed\\WebApp\\Team-Strongly-Typed\\MemeTown.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,38 +15619,38 @@
   "RootNamespace": "MemeTown",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Satyam\\Downloads\\MemeTown\\MemeTown\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Satyam\\Downloads\\MemeTown\\MemeTown\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Satyam\\Downloads\\MemeTown\\MemeTown\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Satyam\\Downloads\\MemeTown\\MemeTown\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Satyam\\Downloads\\MemeTown\\MemeTown\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Satyam\\Downloads\\MemeTown\\MemeTown\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\Electric_Recon\\source\\repos\\Revature\\Core C#\\Team_Strongly_Typed\\WebApp\\Team-Strongly-Typed\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Satyam\\Downloads\\MemeTown\\MemeTown\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\Electric_Recon\\source\\repos\\Revature\\Core C#\\Team_Strongly_Typed\\WebApp\\Team-Strongly-Typed\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Electric_Recon\\source\\repos\\Revature\\Core C#\\Team_Strongly_Typed\\WebApp\\Team-Strongly-Typed\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Electric_Recon\\source\\repos\\Revature\\Core C#\\Team_Strongly_Typed\\WebApp\\Team-Strongly-Typed\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Electric_Recon\\source\\repos\\Revature\\Core C#\\Team_Strongly_Typed\\WebApp\\Team-Strongly-Typed\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Electric_Recon\\source\\repos\\Revature\\Core C#\\Team_Strongly_Typed\\WebApp\\Team-Strongly-Typed\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Electric_Recon\\source\\repos\\Revature\\Core C#\\Team_Strongly_Typed\\WebApp\\Team-Strongly-Typed\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
