@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/dcead1d4-3daf-440d-bb7a-87c700ca0174/resourceGroups/Suraj-Kalika-Demo/providers/Microsoft.Web/sites/Team-Strongly-Typed"
+}
