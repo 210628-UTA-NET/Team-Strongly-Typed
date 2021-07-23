@@ -28,7 +28,7 @@ namespace MemeTown.Controllers
             switch (dice)
             {
                 case 0:
-                    link = "https://www.youtube.com/watch?v=o-YBDTqX_ZU";
+                    link = "https://www.youtube.com/watch?v=efI4u-54xcQ&ab_channel=DumbestofAllWorlds";
                     break;
                 case 1:
                     link = "https://youtu.be/ZUIObCgsfWA";
@@ -73,7 +73,7 @@ namespace MemeTown.Controllers
                     link = "https://youtu.be/UlmXn7Fy4C4";
                     break;
                 case 15:
-                    link = "https://www.youtube.com/watch?v=o-YBDTqX_ZU";
+                    link = "https://www.youtube.com/watch?v=3yHL-bb0Z8k&ab_channel=Turbo";
                     break;
                 default:
                     link = "https://www.youtube.com/watch?v=o-YBDTqX_ZU";
