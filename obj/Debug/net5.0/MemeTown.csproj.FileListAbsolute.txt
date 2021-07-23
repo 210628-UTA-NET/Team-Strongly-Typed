@@ -83,6 +83,7 @@ C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\bin\Debug\net5.0\Publish\appsett
 C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\bin\Debug\net5.0\Publish\appsettings.json
 C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\bin\Debug\net5.0\Publish\MemeTown.deps.json
 C:\Users\IEO\Desktop\CoreC#\Team-Strongly-Typed\bin\Debug\net5.0\Publish\MemeTown.runtimeconfig.json
+<<<<<<< HEAD
 C:\Users\Electric_Recon\source\repos\Revature\Core C#\Team_Strongly_Typed\WebApp\Team-Strongly-Typed\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Electric_Recon\source\repos\Revature\Core C#\Team_Strongly_Typed\WebApp\Team-Strongly-Typed\bin\Debug\net5.0\appsettings.json
 C:\Users\Electric_Recon\source\repos\Revature\Core C#\Team_Strongly_Typed\WebApp\Team-Strongly-Typed\bin\Debug\net5.0\Publish\web.config
@@ -128,3 +129,5 @@ C:\Users\Electric_Recon\source\repos\Revature\Core C#\Team_Strongly_Typed\WebApp
 C:\Users\Electric_Recon\source\repos\Revature\Core C#\Team_Strongly_Typed\WebApp\Team-Strongly-Typed\obj\Debug\net5.0\MemeTown.pdb
 C:\Users\Electric_Recon\source\repos\Revature\Core C#\Team_Strongly_Typed\WebApp\Team-Strongly-Typed\obj\Debug\net5.0\MemeTown.genruntimeconfig.cache
 C:\Users\Electric_Recon\source\repos\Revature\Core C#\Team_Strongly_Typed\WebApp\Team-Strongly-Typed\obj\Debug\net5.0\MemeTown.csproj.CopyComplete
+=======
+>>>>>>> 09b49f44d0cb73af1b9c87b98c0027c168365d19
