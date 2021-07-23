@@ -20,6 +20,7 @@ namespace MemeTown.Controllers
 
         public IActionResult Index()
         {
+            ViewData["MemeLink"] = "https://www.youtube.com/watch?v=o-YBDTqX_ZU";
             return View();
         }
 
@@ -33,5 +34,10 @@ namespace MemeTown.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+        
+        // public IActionResult Random()
+        // {
+
+        // }
     }
 }
